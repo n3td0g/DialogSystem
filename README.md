@@ -1,6 +1,6 @@
 ### Quest and Dialog System
 Plugin for Unreal Engine 4 adding a dialogue and quest system.
-Supported version is 4.20
+Supported version is 4.25
 
 Плагин для Unreal Engine 4 добавляющий диалоговую и квестовую систему.
 Для работы с диалогами и квестами созданы графовые редакторы, позволяющие быстро проектировать различные сценарии.
